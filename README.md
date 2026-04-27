@@ -35,8 +35,7 @@ It is designed to enhance the user experience during data entry by automating ke
 ## 👨‍💻 Team Members
 
 - Arooj Fatima  
-- Noshaba Noreen  
-- Sabahat Sajjad  
+
 
 ## 🎓 Course Information
 
